@@ -10,3 +10,5 @@ class Greeting{
     }
 }
 console.log(new Greeting('Ahmed','Hi Ahmed'));
+console.log();
+console.log();

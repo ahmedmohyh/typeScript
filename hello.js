@@ -9,3 +9,5 @@ var Greeting = /** @class */ (function () {
     return Greeting;
 }());
 console.log(new Greeting('Ahmed', 'Hi Ahmed'));
+console.log();
+console.log();
